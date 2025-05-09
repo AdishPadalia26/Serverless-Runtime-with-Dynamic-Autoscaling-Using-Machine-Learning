@@ -191,4 +191,4 @@ This:
 
 ## 📚 References
 
-See [Report PDF](./Design%20of%20Internet%20Services_Project_Report.pdf) and [References Section](#) for detailed citations.
+See [Report PDF](./Design%20of%20Internet%20Services_Project_Report.pdf) for more detailed analysis.
