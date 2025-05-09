@@ -1,0 +1,17 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://192.168.49.2:31112
+functions:
+  hello:
+    lang: python3-flask
+    handler: ./hello
+    image: adish310/hello:latest
+    environment:
+      write_debug: true
+    limits:
+      cpu: 100m
+      memory: 128Mi
+    requests:
+      cpu: 50m
+      memory: 64Mi
