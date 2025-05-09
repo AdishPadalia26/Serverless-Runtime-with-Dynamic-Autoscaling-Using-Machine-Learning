@@ -1,4 +1,4 @@
-# 🚀 Serverless Runtime with Dynamic Autoscaling Using Machine Learning
+# 🚀 Serverless Runtime with Dynamic Autoscaling Using Machine Learning and Kubernetes
 
 A Kubernetes-based serverless autoscaling platform that integrates **OpenFaaS**, **Horizontal Pod Autoscaler (HPA)**, **machine learning-based predictive scaling**, and real-time traffic simulation using `hey`. The system forecasts future traffic and scales functions proactively to reduce latency and cold starts.
 
